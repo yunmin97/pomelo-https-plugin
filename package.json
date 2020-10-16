@@ -1,0 +1,25 @@
+{
+  "name": "pomelo-https-plugin",
+  "version": "0.0.1",
+  "description": "http(https) plugin for pomelo.",
+  "main": "index.js",
+  "private": false,
+  "homepage": "https://github.com/yunmin97/pomelo-https-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yunmin97/pomelo-https-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yunmin97/pomelo-https-plugin/issues"
+  },
+  "keywords": [
+    "pomelo",
+    "http",
+    "plugin"
+  ],
+  "author": "yunmin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
