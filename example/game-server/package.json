@@ -4,6 +4,6 @@
     "private": false,
     "dependencies": {
         "pomelo": "2.2.5",
-        "pomelo-https-plugin": "0.0.5"
+        "pomelo-https-plugin": "0.0.6"
     }
 }
