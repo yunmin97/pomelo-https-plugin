@@ -1,5 +1,3 @@
-# pomelo-https-plugin
-
 ## installation：npm install pomelo-https-plugin
 
 ## instructions(check out the example for more features):
