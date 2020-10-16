@@ -1,5 +1,7 @@
-## installation：npm install pomelo-https-plugin
-
+## installation：        
+``
+npm install pomelo-https-plugin
+``      
 ## instructions(check out the example for more features):
 #### 1. modify servers.json, add http server config:        
 ```js
