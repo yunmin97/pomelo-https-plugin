@@ -1,6 +1,6 @@
 {
   "name": "pomelo-https-plugin",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "http(https) plugin for pomelo.",
   "main": "index.js",
   "private": false,
